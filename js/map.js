@@ -1,0 +1,1 @@
+function mapCheck(){let e=document.querySelector(".map__inputs").children;for(let t=0;t<e.length;t++)e[t].value.toLowerCase()===correctMap[t]&&userMap++}
